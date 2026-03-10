@@ -1,4 +1,4 @@
-# 🕹️ MIPS Jumper
+# 🕹️ MIPS Jumper (🚧EN DESARROLLO - 💻🛠️⚙️🐛)
 
 > Clon de Doodle Jump escrito íntegramente en **MIPS32 Assembly**.  
 > Gráficos en tiempo real con el Bitmap Display de MARS · Física de gravedad · Scroll infinito · Input de teclado por MMIO.
