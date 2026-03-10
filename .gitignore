@@ -1,0 +1,4 @@
+# Ignorar archivos Zone Identifier de Windows
+*.Zone.Identifier
+*:*Zone.Identifier
+
