@@ -7,10 +7,7 @@
 
 ## Demo
 
-<!-- Sustituye esta línea por tu GIF grabado con MARS -->
-![MIPS Jumper gameplay](docs/gameplay.gif)
-
-> 💡 **Cómo grabar el GIF:** usa [ScreenToGif](https://www.screentogif.com/) (Windows) o [Peek](https://github.com/phw/peek) (Linux) mientras juegas en MARS. Súbelo a `docs/gameplay.gif`.
+### En proceso...
 
 ---
 
@@ -213,4 +210,4 @@ El objetivo era demostrar comprensión práctica de:
 **Iván Mesa Domínguez**  
 [github.com/IvnMD](https://github.com/IvnMD) · [LinkedIn](https://www.linkedin.com/in/ivanmesadominguez/)
 
-*Estudiante DAM · 15 años de experiencia comercial convertida en código.*
+*Estudiante DAM*
